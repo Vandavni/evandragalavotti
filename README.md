@@ -2,13 +2,13 @@ Oiê!!! Sou a Evandra Galavotti, uma aprendiz de programação 😊
 
 - 🤯 Entrando aos poucos nesse mundo < > </>
 - 📚 Atualmente sou Adm, com foco em contabilidade/tributação
-- 🤞 Meu noivo está sendo minha base para gostar ainda mais de programação
+- 🤞 O mundo é minha inspiração
 - 🏖 Amo ter liberdade
 
 <div align="center">
   <a href="https://github.com/evandragalavotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandragalavotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
 <div style="display: inline_block"><br>
